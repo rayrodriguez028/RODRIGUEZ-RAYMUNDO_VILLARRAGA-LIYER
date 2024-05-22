@@ -1,0 +1,14 @@
+[2024-05-21 20:31:52] [ INFO ] [OdontologoEnMemoria:21] odontologo guardado: Odontologo{id=1, matricula='DH-22052024', nombre='Raymundo', apellido='Rodriguez'}
+[2024-05-21 20:31:52] [ INFO ] [OdontologoEnMemoria:21] odontologo guardado: Odontologo{id=2, matricula='DH-22052024', nombre='Raymundo', apellido='Rodriguez'}
+[2024-05-21 20:33:46] [ INFO ] [OdontologoEnMemoria:21] odontologo guardado: Odontologo{id=1, matricula='DH-21052024', nombre='Juanito', apellido='Perez'}
+[2024-05-21 20:33:46] [ INFO ] [OdontologoEnMemoria:21] odontologo guardado: Odontologo{id=2, matricula='DH-22052024', nombre='Raymundo', apellido='Rodriguez'}
+[2024-05-21 20:35:03] [ INFO ] [OdontologoDaoH2:38] odontologo guardado: Odontologo{id=2, matricula='DH-23052024', nombre='Liyer', apellido='Villarraga'}
+[2024-05-21 20:35:03] [ INFO ] [OdontologoDaoH2:38] odontologo guardado: Odontologo{id=3, matricula='DH-23052024', nombre='Liyer', apellido='Villarraga'}
+[2024-05-21 20:35:03] [ INFO ] [OdontologoDaoH2:82] odontolgo listado: Odontologo{id=1, matricula='DH-21052024', nombre='JUANITO', apellido='PEREZ'}
+[2024-05-21 20:35:03] [ INFO ] [OdontologoDaoH2:82] odontolgo listado: Odontologo{id=2, matricula='DH-23052024', nombre='Liyer', apellido='Villarraga'}
+[2024-05-21 20:35:03] [ INFO ] [OdontologoDaoH2:82] odontolgo listado: Odontologo{id=3, matricula='DH-23052024', nombre='Liyer', apellido='Villarraga'}
+[2024-05-21 20:36:30] [ INFO ] [OdontologoDaoH2:38] odontologo guardado: Odontologo{id=2, matricula='DH-22052024', nombre='Liyer', apellido='Villarraga'}
+[2024-05-21 20:36:30] [ INFO ] [OdontologoDaoH2:38] odontologo guardado: Odontologo{id=3, matricula='DH-23052024', nombre='Julieth', apellido='Pinzon'}
+[2024-05-21 20:36:30] [ INFO ] [OdontologoDaoH2:82] odontolgo listado: Odontologo{id=1, matricula='DH-21052024', nombre='JUANITO', apellido='PEREZ'}
+[2024-05-21 20:36:30] [ INFO ] [OdontologoDaoH2:82] odontolgo listado: Odontologo{id=2, matricula='DH-22052024', nombre='Liyer', apellido='Villarraga'}
+[2024-05-21 20:36:30] [ INFO ] [OdontologoDaoH2:82] odontolgo listado: Odontologo{id=3, matricula='DH-23052024', nombre='Julieth', apellido='Pinzon'}
